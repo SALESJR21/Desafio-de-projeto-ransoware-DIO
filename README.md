@@ -1,7 +1,7 @@
 # **Desafio de projeto Ransoware da DIO**
 _________________________________________
 
-## **Nesse pequeno projeto em Python, vamos criar um arquivo para encriptação e outro para desencriptação**
+## **Nesse pequeno projeto em Python, vamos criar um arquivo para encriptação e outro para desencriptação.**
 
 ![1813806](https://user-images.githubusercontent.com/101129874/219933167-3ff51d21-9805-44a6-a802-6d6c0a8d0d81.png)
 
